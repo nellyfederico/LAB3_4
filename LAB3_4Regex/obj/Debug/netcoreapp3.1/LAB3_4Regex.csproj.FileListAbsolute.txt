@@ -1,0 +1,4 @@
+C:\Users\nalle\Documents\3rdCourse\Source\LAB3_4Regex\LAB3_4Regex\obj\Debug\netcoreapp3.1\LAB3_4Regex.csprojAssemblyReference.cache
+C:\Users\nalle\Documents\3rdCourse\Source\LAB3_4Regex\LAB3_4Regex\obj\Debug\netcoreapp3.1\LAB3_4Regex.AssemblyInfoInputs.cache
+C:\Users\nalle\Documents\3rdCourse\Source\LAB3_4Regex\LAB3_4Regex\obj\Debug\netcoreapp3.1\LAB3_4Regex.AssemblyInfo.cs
+C:\Users\nalle\Documents\3rdCourse\Source\LAB3_4Regex\LAB3_4Regex\obj\Debug\netcoreapp3.1\LAB3_4Regex.csproj.CoreCompileInputs.cache
